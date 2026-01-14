@@ -28,20 +28,6 @@ O projeto utiliza a biblioteca [simples.etl](https://github.com/eduardoalmeidaje
 - Gson
 - Jsoup
 - Selenium
-  
----
-
-## 📂 Estrutura do Projeto
-
-```
-etl.json/
-├── src/main/java/
-│ └── br/edu/utfpr/td/tsi/raspador/atividade3
-├── orientacoes.json
-├── application.properties
-├── pom.xml
-└── README.md
-```
 
 ---
 
