@@ -1,0 +1,134 @@
+[
+  {
+    "aluno": {
+      "nome": "Alvaro Barbosa",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "alvarobarbosa@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Paradigmas Arquiteturais de Sistemas Distribuídos (provisório)",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "-"
+  },
+  {
+    "aluno": {
+      "nome": "Paula Cristina",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "paulahang@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Segurança de Daods em Big Data",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "-"
+  },
+  {
+    "aluno": {
+      "nome": "Emanuelle Machado",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "emanuellemachado@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Qualidade de Dados e Linked Data: Aprimoramento de Dados Abertos Governamentais",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "18/02/2025"
+  },
+  {
+    "aluno": {
+      "nome": "Guilherme Baumgratz",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "gspiger@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Sistemas de Pesquisa Online (provisório)",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "-"
+  },
+  {
+    "aluno": {
+      "nome": "Lucas Alves",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "lucasrubira@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Bancos de Dados NoSQL: Vulnerabilidades de Segurança Encontrados no MongoDB",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "19/02/2025"
+  },
+  {
+    "aluno": {
+      "nome": "Matheus Augusto",
+      "curso": "Não identificado",
+      "email": "mdias.1998@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Sistema Eletrônico de Informações: Um Estudo Sobre a Qualidade de Dados",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "21/02/2025"
+  },
+  {
+    "aluno": {
+      "nome": "Matheus da",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "matheusvarela@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Análise comparativa entre uma aplicação cliente servidor com uma aplicação orientada a eventos",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "-"
+  },
+  {
+    "aluno": {
+      "nome": "Lucas Felix",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "lucas.felix199948@gmail.com"
+    },
+    "trabalho": {
+      "titulo": "Análise de Qualidade e Visão dos Dados Disponibilizados Sobre Homicídios No Brasil: Um Panorama da Violência",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "18/02/2025"
+  },
+  {
+    "aluno": {
+      "nome": "Gabriel Junior",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "gabrielpicagevicz@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Explorando Dados de Roubos e Furtos de Veículos em São Paulo: Uma Abordagem De Integração Com Pentaho, Postgresql, Elasticsearch e Kibana",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "08/12/2022"
+  },
+  {
+    "aluno": {
+      "nome": "Diego Gomes",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "diego.gomes87@gmail.com"
+    },
+    "trabalho": {
+      "titulo": "Gamificação no Ensino Remoto de Programação",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "08/12/2022"
+  },
+  {
+    "aluno": {
+      "nome": "Jhony Wesley",
+      "curso": "Tecnologia em Sistemas para Internet",
+      "email": "jhonymarques@alunos.utfpr.edu.br"
+    },
+    "trabalho": {
+      "titulo": "Análise do nível de aderência à LGPD no setor público (\u003ca href\u003d\"https://repositorio.utfpr.edu.br/jspui/handle/1/30387\"\u003elink\u003c/a\u003e)",
+      "nivel": "TCC1"
+    },
+    "dataDefesa": "08/12/2022"
+  }
+]
